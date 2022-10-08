@@ -29,7 +29,8 @@
 <div id="playdateList" class="container-sm my-5 table-responsive">
 
     <h2>This is the home screen, I have nothing to say! :-)</h2>
-    <h3>This is playdatenow07 - please work. You can do it!</h3>
+    <h3>This is playdate07 - please work. You can do it!</h3>
+    <h4>no on appRunner proace</h4>
 
 </div><!-- end playdateList -->
 <jsp:include page="/WEB-INF/include/pageLayoutBottom.jsp" />
